@@ -1,0 +1,27 @@
+.container{
+  width:100%;
+  margin:0 auto;
+}
+.row{
+    
+    width:50%;    
+    margin:5px;
+}
+.row .label{
+    width:25%;
+    float:left;
+    display: inline-block;
+}
+.row .input{
+    width:25%;
+    float:left;
+}
+button{
+    width:10%; 
+    padding:5px;  
+    margin:5px;
+    border-radius:4px;
+}
+.clear{
+    clear:both;
+}
